@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:7cd.10.2025
+## Date:7.10.2025
 
 ## AIM:
  To design a website to calculate the area of the rectangle
